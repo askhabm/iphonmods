@@ -1,7 +1,7 @@
 {
   "name": "WayAppStore",
   "identifier": "com.WayAppStore.repo",
-  "iconURL": "https://askhabm.github.io/WayAppStore/WayAppStore.png",
+  "iconURL": "https://askhabm.github.io/WayAppStore/wayappstore.png",
   "apps": [
     {
       "name": "WhatsApp+",
@@ -419,3 +419,4 @@
     }
   ]
 }
+
