@@ -1,11 +1,11 @@
 {
   "name": "WayAppStore",
   "identifier": "com.WayAppStore.repo",
-  "iconURL": "https://askhabm.github.io/WayAppStore/wayappstore.png",
+  "iconURL": "https://askhabm.github.io/WayAppStore/icons/wayappstore.png",
   "apps": [
     {
       "name": "WhatsApp+",
-      "bundleIdentifier": "net.whatapp.WhatsApp",
+      "bundleIdentifier": "net.whatapp.WhatsApp+",
       "developerName": "WayAppStore",
       "localizedDescription": "❚ Антиудаление фото видео\n❚ Антиудаление статусов.\n❚ Просмотр и сохранение одноразовых фото и видео.\n❚ Сохранение статусов\n❚ Замарозка онлайна\n❚ Подмена контактов\n❚ Скрытые чаты\n❚ Убрана реклама Watusi.",
       "version": "25.6.2",
@@ -28,15 +28,15 @@
       "tintColor": "25D366"
     },
 	  {
-      "name": "Feather",
+      "name": "WayAppStore",
       "bundleIdentifier": "net.krysalyh",
       "developerName": "WayAppStore",
-      "localizedDescription": "Обновление.",
+      "localizedDescription": "❚ Обновление.",
       "version": "2.0.1",
       "versionDate": "2025-06-07",
       "size": "10000000",
       "downloadURL": "https://github.com/askhabm/WayAppStore/releases/download/24.04.2025/Feather.2.0.1.ipa",
-      "iconURL": "https://askhabm.github.io/WayAppStore/icons/Feather.png",
+      "iconURL": "https://askhabm.github.io/WayAppStore/wayappstore.png",
       "tintColor": "25D366"
     },
 	{
@@ -301,7 +301,7 @@
       "bundleIdentifier": "com.filmora.app",
       "developerName": "WayAppStore",
       "size": "355000000",
-      "version": "",
+      "version": "1.0.0",
       "localizedDescription": "❚ Активирована подписка!",
       "versionDate": "2025-04-23",
       "downloadURL": "https://github.com/askhabm/WayAppStore/releases/download/24.04.2025/Filmora.ipa",
