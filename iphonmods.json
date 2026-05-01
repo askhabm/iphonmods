@@ -1,7 +1,7 @@
 {
-  "name": "WayAppStore",
-  "identifier": "com.WayAppStore.repo",
-  "iconURL": "https://askhabm.github.io/WayAppStore/icons/wayappstore.png",
+  "name": "iphonmods",
+  "identifier": "com.iphonmods.repo",
+  "iconURL": "https://askhabm.github.io/iphonmods/icons/iphonmods.png",
   "apps": [
     {
       "name": "WhatsApp+",
