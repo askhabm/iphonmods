@@ -50,8 +50,18 @@
       "downloadURL": "https://github.com/askhabm/iphonmods/releases/download/12.04.2026/TikTok_43.9.0.ipa",
       "iconURL": "https://askhabm.github.io/iphonmods/icons/tiktok.png",
       "tintColor": "25D366"
+    },
+{
+      "name": "Instagram+",
+      "bundleIdentifier": "com.burbn.instagram+",
+      "developerName": "askhabm",
+      "size": "295000000",
+      "version": "408.0.0",
+      "localizedDescription": "▪️Скачивание сторисов и reels\n▪️Сохранени одноразовых файлов в директе\n▪️Анонимный просмотр историй и эфиров\n▪️Увеличение аватарки\n▪️Скрытый просмотр директа",
+      "versionDate": "408.0.0",
+      "downloadURL": "https://github.com/askhabm/iphonmods/releases/download/12.04.2026/Instagram_408.0.0.ipa",
+      "iconURL": "https://askhabm.github.io/iphonmods/icons/instagram.png",
+      "tintColor": "25D366"
     }
   ]
 }
-
-
