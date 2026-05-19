@@ -54,6 +54,19 @@
       "downloadURL": "https://github.com/askhabm/iphonmods/releases/download/12.04.2026/TikTok_43.9.0.ipa",
       "iconURL": "https://askhabm.github.io/iphonmods/icons/tiktok.png",
       "tintColor": "25D366"
+    },
+{
+      "name": "Fonts - AI Stickers",
+      "bundleIdentifier": "fontskeyboard.fonts",
+      "developerName": "askhabm",
+      "subtitle": "❚ Активирована подписка.",
+      "size": "58200000",
+      "version": "8.4.47",
+      "localizedDescription": "❚ Активирована подписка.\n❚ Игнорируйте страницу покупки и перезапустите один раз, чтобы активировать подписку.",
+      "versionDate": "2025-12-15,
+      "downloadURL": "https://github.com/askhabm/iphonmods/releases/download/12.04.2026/Fonts_8.4.47.ipa",
+      "iconURL": "https://askhabm.github.io/iphonmods/icons/fonts.png",
+      "tintColor": "25D366"
     }
   ]
 }
