@@ -5,7 +5,6 @@
   "apps": [
 {
       "name": "WhatsApp+",
-      "bundleIdentifier": "net.whatsapp.WhatsApp+",
       "developerName": "askhabm",
       "subtitle": "❚ Модифицированный WhatsApp",
       "size": "132600000",
@@ -18,7 +17,6 @@
     },
 {
       "name": "WABusiness+",
-      "bundleIdentifier": "net.whatsapp.WhatsappSMB+",
       "developerName": "askhabm",
       "subtitle": "❚ Модифицированный WhatsApp",
       "size": "135000000",
@@ -31,7 +29,6 @@
     },
 {
       "name": "Teledark",
-      "bundleIdentifier": "app.teledark",
       "developerName": "askhabm",
       "subtitle": "❚ Модифицированный Telegram",
       "size": "68500000",
@@ -44,7 +41,6 @@
     },
 {
       "name": "TikTok Mod",
-      "bundleIdentifier": "com.zhiliaoapp.musically+",
       "developerName": "askhabm",
       "subtitle": "❚ Модифицированный TikTok",
       "size": "389000000",
@@ -57,7 +53,6 @@
     },
 {
       "name": "Fonts - AI Stickers",
-      "bundleIdentifier": "fontskeyboard.fonts",
       "developerName": "askhabm",
       "subtitle": "❚ Активирована подписка.",
       "size": "58200000",
@@ -70,7 +65,6 @@
     },
     {
       "name": "Rave",
-      "bundleIdentifier": "sh.weme.wemesh",
       "developerName": "askhabm",
       "subtitle": "❚ Удален из AppStore.",
       "size": "115800000",
@@ -82,7 +76,6 @@
     },
 	{
       "name": "PureStatus",
-      "bundleIdentifier": "com.damtechdesigns.wa.story",
       "developerName": "askhabm",
       "subtitle": "❚ Активирована подписка!",
       "size": "57810000",
