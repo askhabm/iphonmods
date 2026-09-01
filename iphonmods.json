@@ -101,11 +101,11 @@
     {
       "title": "ОБНОВЛЕНИЕ",
       "identifier": "appstore-news",
-      "caption": "AppStore+ необходимо обновить чтобы вы могли и дальше устанавливать свои любимые приложения! Нажмите на картинку чтобы написать в поддержку.",
+      "caption": "AppStore+ необходимо обновить, чтобы вы могли и дальше устанавливать свои любимые приложения!\nНажмите кнопку «Open» ниже, чтобы связаться с поддержкой и выполнить обновление.",
       "tintColor": "848ef9",
-      "imageURL": "https://github.com/khcrysalis/Feather/blob/v1.x/Images/donate.png?raw=true",
-      "date": "2025-02-04",
-      "url": "https://github.com/sponsors/khcrysalis",
+      "imageURL": "https://github.com/askhabm/iphonmods/icons/update.png",
+      "date": "2026-09-01",
+      "url": "https://t.me/makuzaewv",
       "notify": false
     }
   ]
