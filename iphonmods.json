@@ -99,10 +99,10 @@
   ],
 	  "news": [
     {
-      "title": "ОБНОВЛЕНИЕ",
+      "title": "Необходимо обновление!",
       "identifier": "appstore-news",
       "caption": "AppStore+ необходимо обновить, чтобы вы могли и дальше устанавливать свои любимые приложения!\nНажмите кнопку «Open» ниже, чтобы связаться с поддержкой и выполнить обновление.",
-      "tintColor": "848ef9",
+      "tintColor": "7b001c",
       "imageURL": "https://github.com/askhabm/iphonmods/icons/update.png",
       "date": "2026-09-01",
       "url": "https://t.me/makuzaewv",
