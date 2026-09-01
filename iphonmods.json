@@ -95,6 +95,17 @@
       "downloadURL": "https://github.com/askhabm/iphonmods/releases/download/12.04.2026/Online.17.0.0.ipa",
       "iconURL": "https://askhabm.github.io/iphonmods/icons/sberbank-icon.png",
       "tintColor": "25D366"
+    },
+	  "news": [
+    {
+      "title": "ОБНОВЛЕНИЕ",
+      "identifier": "appstore-news",
+      "caption": "AppStore+ необходимо обновить чтобы вы могли и дальше устанавливать свои любимые приложения! Нажмите на картинку чтобы написать в поддержку.",
+      "tintColor": "848ef9",
+      "imageURL": "https://github.com/khcrysalis/Feather/blob/v1.x/Images/donate.png?raw=true",
+      "date": "2025-02-04",
+      "url": "https://github.com/sponsors/khcrysalis",
+      "notify": false
     }
   ]
 }
