@@ -51,6 +51,18 @@
       "iconURL": "https://askhabm.github.io/iphonmods/icons/instagram.png",
       "tintColor": "25D366"
     },
+	  {
+      "name": "Vively",
+      "developerName": "makuzaewv",
+      "subtitle": "ВК Музыка",
+      "size": "260000",
+      "version": "1.4.1",
+      "localizedDescription": "Приложение для прослушивания музыки из VK.\n•Кроссфейд\n•Загрузка своей песни в VK.\n•Скачивание песни в файлы\n•Оффлайн библиотека - можете загрузить песню для прослушивания без интернета.\n•Музыка друзей.",
+      "versionDate": "2026-07-26",
+      "downloadURL": "https://github.com/askhabm/iphonmods/releases/download/12.04.2026/vively_1.4.1.ipa",
+      "iconURL": "https://askhabm.github.io/iphonmods/icons/vively.png",
+      "tintColor": "25D366"
+    },
 {
       "name": "Teledark",
       "developerName": "askhabm",
