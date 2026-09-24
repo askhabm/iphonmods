@@ -31,7 +31,13 @@
       "versionDate": "2026-09-01",
       "downloadURL": "https://github.com/askhabm/iphonmods/releases/download/12.04.2026/WABusiness+_26.36.10.ipa",
       "iconURL": "https://askhabm.github.io/iphonmods/icons/wabusiness.png",
-      "tintColor": "25D366"
+      "tintColor": "25D366",
+	  "screenshotURLs": [
+
+ "https://askhabm.github.io/iphonmods/icons/screenshots/watusi1.png",
+ "https://askhabm.github.io/iphonmods/icons/screenshots/watusi2.png",
+ "https://askhabm.github.io/iphonmods/icons/screenshots/watusi3.png"
+	  ]
     },
 	  {
       "name": "Instagram+ Regram",
