@@ -180,6 +180,19 @@
       "tintColor": "25D366"
     },
 	  {
+      "name": "МТС Банк (Пять монет)",
+      "developerName": "makuzaewv",
+      "subtitle": "❚  Удален с AppStore.",
+      "size": "160000000",
+      "category": "finance",
+      "version": "11.0.0",
+      "localizedDescription": "❚  Удален с AppStore.",
+      "versionDate": "2026-10-8",
+      "downloadURL": "https://github.com/askhabm/iphonmods/releases/download/12.04.2026/5coins.ipa",
+      "iconURL": "https://askhabm.github.io/iphonmods/icons/mtsbank.png",
+      "tintColor": "25D366"
+    },
+	  {
       "name": "ВТБ Банк (Алтай)",
       "developerName": "makuzaewv",
       "subtitle": "❚  Удален с AppStore.",
