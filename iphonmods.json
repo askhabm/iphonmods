@@ -42,19 +42,6 @@
 	  ]
     },
 	  {
-      "name": "Instagram+ Regram",
-      "developerName": "makuzaewv",
-      "subtitle": "❚ Модифицирован",
-      "size": "314000000",
-	  "category": "social",
-      "version": "444.0.0",
-      "localizedDescription": "❚  Скачивание сторисов и reels\n❚  Сохранение одноразовых файлов в директе \n❚  Анонимный просмотр историй и эфиров\n❚  Увеличение аватарки\n❚  Скрытый просмотр директа",
-      "versionDate": "2026-09-01",
-      "downloadURL": "https://github.com/askhabm/iphonmods/releases/download/12.04.2026/Instagram+_444.0.0.ipa",
-      "iconURL": "https://askhabm.github.io/iphonmods/icons/instagram.png",
-      "tintColor": "25D366"
-    },
-	  {
       "name": "Instagram+ Beegram",
       "developerName": "makuzaewv",
       "subtitle": "❚ Модифицирован",
@@ -68,6 +55,19 @@
 	  "screenshotURLs": [
 		   "https://askhabm.github.io/iphonmods/icons/screenshots/beegram.png"
 	  ],
+      "tintColor": "25D366"
+    },
+	  {
+      "name": "Авито",
+      "developerName": "makuzaewv",
+      "subtitle": ""❚  Удален с AppStore.",
+      "size": "330000000",
+      "category": "tools",
+      "version": "230.1",
+      "localizedDescription": "❚  Удален с AppStore.",
+      "versionDate": "2025-10-5",
+      "downloadURL": "https://github.com/askhabm/iphonmods/releases/download/12.04.2026/anero.ipa",
+      "iconURL": "https://askhabm.github.io/iphonmods/icons/avito.png",
       "tintColor": "25D366"
     },
 	  {
